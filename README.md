@@ -51,8 +51,8 @@ Each project includes context, methodology, and conclusions — not just code.
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/dr-marco-rosado](https://www.linkedin.com/in/dr-marco-rosado/)
-- Email: marcorosado1@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp; LinkedIn: [linkedin.com/in/dr-marco-rosado](https://www.linkedin.com/in/dr-marco-rosado/)
+- ![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp; Email: marcorosado1@gmail.com
 
 ---
 
