@@ -56,6 +56,12 @@ Each project includes context, methodology, and conclusions — not just code.
 
 ---
 
+## 🌎 Languages  
+![Spanish](https://img.shields.io/badge/ES-MX-006847?style=for-the-badge&logoColor=white)&nbsp;
+![English](https://img.shields.io/badge/EN-US-3C3B6E?style=for-the-badge&logoColor=white)&nbsp;
+![Portuguese](https://img.shields.io/badge/PT-BR-009739?style=for-the-badge&logoColor=FFDF00)&nbsp;
+---
+
 > *“Data is only useful when it helps someone make a better decision.”*
 
 ### 🧠 Example of Applied Data Thinking (Health Context)
