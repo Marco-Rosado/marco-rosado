@@ -51,14 +51,14 @@ Each project includes context, methodology, and conclusions — not just code.
 ---
 
 ## 📫 Contact
-- LinkedIn: *(add link here)*  
-- Email: *(optional, professional email only)*
+- LinkedIn: [linkedin.com/in/dr-marco-rosado](https://www.linkedin.com/in/dr-marco-rosado/)
+- Email: marcorosado1@gmail.com
 
 ---
 
 > *“Data is only useful when it helps someone make a better decision.”*
 
-### 🧠 Applied Data Thinking (Health Context)
+### 🧠 Example of Applied Data Thinking (Health Context)
 
 ```python
 import pandas as pd
