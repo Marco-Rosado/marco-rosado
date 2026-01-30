@@ -63,24 +63,3 @@ Each project includes context, methodology, and conclusions — not just code.
 ---
 
 > *“Data is only useful when it helps someone make a better decision.”*
-
-### 🧠 Example of Applied Data Thinking (Health Context)
-
-```python
-import pandas as pd
-
-# Load anonymized health dataset
-df = pd.read_csv("occupational_health_events.csv")
-
-# Problem-first: identify risk concentration, not averages
-risk_by_area = (
-    df.groupby("work_area")
-      .agg(
-          incidents=("event_id", "count"),
-          severe_cases=("severity", lambda x: (x >= 4).sum())
-      )
-      .assign(severity_rate=lambda x: x.severe_cases / x.incidents)
-      .sort_values("severity_rate", ascending=False)
-)
-
-risk_by_area.head()
